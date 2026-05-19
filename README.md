@@ -4,7 +4,7 @@ A full-stack forum platform with a custom admin control panel, forum permissions
 
 ## Live Demo
 
-Frontend: [Live Website](https://forum-frontend-three.vercel.app/) 
+Frontend: [Live Website](https://forum-frontend-three.vercel.app/)  
 Backend API: [API](https://forum-backend-5r3y.onrender.com/)
 
 ## Repositories
