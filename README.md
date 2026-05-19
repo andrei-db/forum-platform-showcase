@@ -49,7 +49,7 @@ Backend: [forum-backend](https://github.com/andrei-db/forum-backend)
 Screenshots will be added soon.
 
 ## Architecture
-
+```txt
 React Frontend
       ↓
 Express API
@@ -57,3 +57,4 @@ Express API
 Prisma ORM
       ↓
 PostgreSQL
+```
